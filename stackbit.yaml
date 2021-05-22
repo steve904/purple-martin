@@ -1,0 +1,325 @@
+stackbitVersion: ~0.3.0
+ssgName: hugo
+publishDir: public
+dataDir: data
+pagesDir: content
+assets:
+  referenceType: static
+  staticDir: static
+  uploadDir: assets
+  publicPath: /
+models:
+  blog:
+    type: page
+    label: Blog
+    folder: blog
+    match:
+      - _index.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: description
+        label: Description
+      - type: string
+        name: author
+        label: Author
+      - type: list
+        name: images
+        label: Images
+        items:
+          type: string
+      - type: datetime
+        name: date
+        label: Date
+      - type: datetime
+        name: publishDate
+        label: Publish Date
+      - type: string
+        name: layout
+        label: Layout
+      - type: boolean
+        name: show_post_thumbnail
+        label: Show Post Thumbnail
+      - type: boolean
+        name: show_author_byline
+        label: Show Author Byline
+      - type: boolean
+        name: show_post_date
+        label: Show Post Date
+      - type: boolean
+        name: show_disqus_comments
+        label: Show Disqus Comments
+  blog_1:
+    type: page
+    label: Blog 1
+    folder: blog
+    match:
+      - built-in-contact-form.md
+      - tachyons-for-style.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: subtitle
+        label: Subtitle
+      - type: string
+        name: excerpt
+        label: Excerpt
+      - type: date
+        name: date
+        label: Date
+      - type: string
+        name: author
+        label: Author
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: list
+        name: images
+        label: Images
+        items:
+          type: image
+      - type: list
+        name: series
+        label: Series
+        items:
+          type: string
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
+      - type: list
+        name: categories
+        label: Categories
+        items:
+          type: string
+      - type: string
+        name: layout
+        label: Layout
+  blog_2:
+    type: page
+    label: Blog 2
+    folder: blog
+    match:
+      - css-grid-scaffold.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: subtitle
+        label: Subtitle
+      - type: string
+        name: excerpt
+        label: Excerpt
+      - type: date
+        name: date
+        label: Date
+      - type: string
+        name: author
+        label: Author
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: list
+        name: images
+        label: Images
+        items:
+          type: image
+      - type: list
+        name: series
+        label: Series
+        items:
+          type: string
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
+      - type: list
+        name: categories
+        label: Categories
+        items:
+          type: string
+      - type: string
+        name: layout
+        label: Layout
+  form:
+    type: page
+    label: Form
+    folder: form
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: name
+        label: Name
+      - type: markdown
+        name: description
+        label: Description
+      - type: datetime
+        name: date
+        label: Date
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: string
+        name: url
+        label: Url
+      - type: string
+        name: type
+        label: Type
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: submit_button_label
+        label: Submit Button Label
+      - type: boolean
+        name: show_social_links
+        label: Show Social Links
+      - type: boolean
+        name: show_poweredby_formspree
+        label: Show Poweredby Formspree
+      - type: string
+        name: formspree_form_id
+        label: Formspree Form Id
+  page_1:
+    type: page
+    label: Page 1
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: subtitle
+        label: Subtitle
+      - type: string
+        name: description
+        label: Description
+      - type: datetime
+        name: date
+        label: Date
+      - type: list
+        name: images
+        label: Images
+        items:
+          type: image
+      - type: boolean
+        name: show_action_link
+        label: Show Action Link
+      - type: string
+        name: action_link
+        label: Action Link
+      - type: string
+        name: action_label
+        label: Action Label
+      - type: string
+        name: action_type
+        label: Action Type
+      - type: string
+        name: type
+        label: Type
+  formspree:
+    type: data
+    label: Formspree
+    file: ads/formspree.yaml
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: markdown
+        name: body
+        label: Body
+  navigation:
+    type: data
+    label: Navigation
+    file: navigation.yaml
+    fields:
+      - type: list
+        name: header
+        label: Header
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: title
+              label: Title
+            - type: string
+              name: url
+              label: Url
+      - type: list
+        name: footer
+        label: Footer
+        items:
+          type: object
+          fields:
+            - type: string
+              name: name
+              label: Name
+            - type: string
+              name: title
+              label: Title
+            - type: string
+              name: url
+              label: Url
+  sidebar_content:
+    type: data
+    label: Sidebar Content
+    file: sidebar_content.yaml
+    fields:
+      - type: object
+        name: blog
+        label: Blog
+        fields:
+          - type: object
+            name: single_sidebar
+            label: Single Sidebar
+            fields:
+              - type: string
+                name: title
+                label: Title
+              - type: string
+                name: description
+                label: Description
+              - type: string
+                name: text_link_label
+                label: Text Link Label
+              - type: string
+                name: text_link_url
+                label: Text Link Url
+              - type: boolean
+                name: show_sidebar_adunit
+                label: Show Sidebar Adunit
+          - type: object
+            name: list_sidebar
+            label: List Sidebar
+            fields:
+              - type: string
+                name: title
+                label: Title
+              - type: string
+                name: description
+                label: Description
+              - type: string
+                name: author
+                label: Author
+              - type: string
+                name: text_link_label
+                label: Text Link Label
+              - type: string
+                name: text_link_url
+                label: Text Link Url
+              - type: boolean
+                name: show_sidebar_adunit
+                label: Show Sidebar Adunit
