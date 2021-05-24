@@ -1,7 +1,7 @@
 ---
 title: 'Morehead City, NC'
 description: lorem-ipsum
-author: lorem-ipsum
+author: Stephen H Causey
 images: []
 date: '2021-05-24T00:50:45.268Z'
 publishDate: '2021-05-24T00:50:45.268Z'
