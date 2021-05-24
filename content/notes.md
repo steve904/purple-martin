@@ -18,4 +18,7 @@ Seems like the list runs out pretty quickly for things to do at Morehead other t
 *   Sound - enjoy the quietness & scenery
 *   Beach
 *   Fishing - Surf, Boat, Pier
+*   Kayak
+*   Golf Cart
+*   Swimming
 *
