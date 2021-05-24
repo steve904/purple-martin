@@ -36,5 +36,5 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   Museum - Morehead
 *   Walking with your kids
 *   Walking with the dogs
-* 
+*   
 
