@@ -1,6 +1,6 @@
 ---
 title: 'Morehead City, NC'
-description: lorem-ipsum
+description: Things to do
 author: lorem-ipsum
 images: []
 date: '2021-05-24T00:16:31.736Z'
