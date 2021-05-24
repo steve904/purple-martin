@@ -43,4 +43,5 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   Photography - Portraits on the beach
 *   Wood projects
 *   Brick projects
+*   Get family fishing license
 
