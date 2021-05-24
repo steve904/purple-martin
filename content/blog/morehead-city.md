@@ -41,5 +41,5 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   Kayak Neuse River
 *   Kayak meetup
 *   Photography - Portraits on the beach
-
+*   
 
