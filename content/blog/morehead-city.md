@@ -52,7 +52,7 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   The Crab Shack - Salter Path, NC
 *   Big Oak Drive-in & Bar-b-que (shrimp burgers)
 
-[The Crab Shack]
+[The Crab Shack](https://www.thecrabshacksalterpath.com/)
 
 [Big Oak Drive-in & Bar-B-Que](http://www.bigoakdrivein.com/shrimpburger.html)
 
