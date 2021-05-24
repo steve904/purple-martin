@@ -1,7 +1,7 @@
 ---
 title: 'Morehead City, NC'
 description: Things to do
-author: lorem-ipsum
+author: Stephen H Causey
 images: []
 date: '2021-05-24T00:16:31.736Z'
 publishDate: '2021-05-24T00:16:31.736Z'
