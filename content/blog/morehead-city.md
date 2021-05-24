@@ -34,5 +34,7 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   Aquarium - Atlantic
 *   Museum - Beaufort
 *   Museum - Morehead
-*   Walking
+*   Walking with your kids
+*   Walking with the dogs
+* 
 
