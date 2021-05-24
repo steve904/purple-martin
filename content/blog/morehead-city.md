@@ -40,4 +40,5 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   Crab Point
 *   Kayak Neuse River
 *   Kayak meetup
+*   Photography
 
