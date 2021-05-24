@@ -15,7 +15,7 @@ show_disqus_comments: false
 
 I am making a list of interesting things to do in and around Morehead City, NC.
 
-
+<!--more-->
 
 The goal of this list is to expand it every time someone gives an idea for fun things to do and go to. 
 
