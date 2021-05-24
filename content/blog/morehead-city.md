@@ -47,3 +47,4 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 
 ## Places to Eat
 
+El's Drive-In
