@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: morehead-city
 description: lorem-ipsum
 author: lorem-ipsum
 images: []
