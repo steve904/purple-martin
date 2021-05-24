@@ -11,9 +11,11 @@ show_author_byline: false
 show_post_date: false
 show_disqus_comments: false
 ---
-## Lorem ipsum
+## Things To Do
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Seems like the list runs out pretty quickly for things to do at Morehead other than going to the beach and fishing so I am going to prove myself wrong and look for lots of interesting things to do.
 
-- Lorem ipsum
-- dolor sit amet
+*   Sound - enjoy the quietness & scenery
+*   Beach
+*   Fishing - Surf, Boat, Pier
+*
