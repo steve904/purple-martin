@@ -7,7 +7,7 @@ date: '2021-05-24T00:16:31.736Z'
 publishDate: '2021-05-24T00:16:31.736Z'
 layout: lorem-ipsum
 show_post_thumbnail: false
-show_author_byline: false
+show_author_byline: true
 show_post_date: false
 show_disqus_comments: false
 ---
