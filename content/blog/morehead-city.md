@@ -37,5 +37,6 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   Walking with your kids
 *   Walking with the dogs
 *   Find a drive in movie
-*   El's 
+*   El's Drive-In - shrimp-burger
+
 
