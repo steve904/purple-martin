@@ -11,9 +11,20 @@ show_author_byline: false
 show_post_date: false
 show_disqus_comments: false
 ---
-## Lorem ipsum
+## Things To Do
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am making a list of interesting things to do in and around Morehead City, NC. The goal of this list is to expand it every time someone gives an idea for fun things to do and go to. 
 
-- Lorem ipsum
-- dolor sit amet
+*   Beach
+*   Sound
+*   Atlantic Beach
+*   Beaufort
+*   Radio Island
+*   Golf Cart
+*   Swimming
+*   Kayaking
+*   Fishing
+*   Boats 
+*   Light House
+*   Trails
+
