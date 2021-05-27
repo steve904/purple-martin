@@ -20,7 +20,7 @@ I am making a list of interesting things to do in and around Morehead City, NC.
 The goal of this list is to expand it every time someone gives an idea for fun things to do and go to. 
 
 *   Beach > Sound > Atlantic Beach > Beaufort
-*   Radio Island > Golg Cart > Swimming > Kayaking
+*   Radio Island > Golf Cart > Swimming > Kayaking
 *   Golf Cart
 *   Swimming
 *   Kayaking
