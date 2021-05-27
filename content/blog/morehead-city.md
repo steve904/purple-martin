@@ -22,9 +22,6 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 *   Beach > Sound > Atlantic Beach > Beaufort
 *   Radio Island > Golf Cart > Swimming > Kayaking
 *   Fishing > Boating > Light House > Trails
-*   Boats 
-*   Light House
-*   Trails
 *   Aquarium - Atlantic
 *   Museum - Beaufort
 *   Museum - Morehead
