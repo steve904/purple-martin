@@ -29,7 +29,8 @@ The goal of this list is to expand it every time someone gives an idea for fun t
 * Kayaking
 *   Fishing 
 * Boating 
-* Light House * Trails
+* Light House 
+* Trails
 *   Aquarium - Atlantic > Museum - Beaufort > Museum Morehead
 *   Walking with your kids > Walking with the dogs
 *   Find a drive in movie > Crab Point > Kayak Neuse River
